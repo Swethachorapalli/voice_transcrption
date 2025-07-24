@@ -14,6 +14,7 @@ A voice-to-text transcription tool built using Python (`Tkinter`, `SpeechRecogni
 -  Full-sentence transcription (not just keywords)
 
  Technologies Used
+   
    Desktop GUI        -Python + Tkinter              
    Speech Recognition - `speech_recognition` + Google API 
    Audio Recording    -`sounddevice`, `scipy`, `numpy` 
