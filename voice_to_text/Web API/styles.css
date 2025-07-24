@@ -1,0 +1,38 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #008080;
+  text-align: center;
+  padding: 50px;
+}
+
+.container {
+  background: #edd75a;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  display: inline-block;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 10px;
+  font-size: 16px;
+  border: none;
+  background-color: #0080ff;
+  color: white;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+button:disabled {
+  background-color: #ccc;
+}
+
+textarea {
+  width: 100%;
+  height: 200px;
+  margin-top: 20px;
+  padding: 10px;
+  font-size: 16px;
+  resize: none;
+}
